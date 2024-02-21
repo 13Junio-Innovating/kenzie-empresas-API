@@ -1,4 +1,4 @@
-<h1>Kenzie Empresas API</h1>
+<h1>Empresas API - Junio Chaves</h1>
 
 <p>Para utilização desta API você precisa seguir os seguintes passos:</p>
 
@@ -29,5 +29,5 @@
 <h2>obs. Os passos 3, 4, 5 devem ser executados apenas uma vez!</h2>
 
 <p>
-  Caso sua API comece a apresentar comportamentos estranhos, vá até o terminal onde ela está executando e aperte <code>ctrl + C</code>, isso fará com que a API pare de executar, então digite o comando <code>npm run dev</code> novamente e verifique se ela voltou a se comportar normalmente, caso isso não resolva o problema entre em contato com a equipe de ensino.
+  Caso sua API comece a apresentar comportamentos estranhos, vá até o terminal onde ela está executando e aperte <code>ctrl + C</code>, isso fará com que a API pare de executar, então digite o comando <code>npm run dev</code> novamente e verifique se ela voltou a se comportar normalmente.
 </p>
